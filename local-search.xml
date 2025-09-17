@@ -3,5 +3,70 @@
   
   
   
+  <entry>
+    <title>文章标题</title>
+    <link href="/-/2025/09/17/markdown%E7%9A%84%E4%B8%80%E4%BA%9B%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
+    <url>/-/2025/09/17/markdown%E7%9A%84%E4%B8%80%E4%BA%9B%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><ul><li>无序列表1</li><li>无序列表2</li><li>无序列表3</li></ul><ol><li>有序列表1</li><li>有序列表2</li><li>有序列表3</li></ol><p><img src="/-/../img/%E9%A6%96%E9%A1%B5%E5%B1%95%E7%A4%BA.png" alt="图片描述"></p><blockquote><p>引用</p></blockquote><p>任务：</p><ul><li>() 任务1</li><li>() 任务2</li><li>(x) 任务3</li></ul><p>代码块：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs c:">int main()&#123;<br>    return 0;<br>&#125;<br></code></pre></td></tr></table></figure><p>数学公式：<br>$$<br>\frac{\partial f}{\partial x} &#x3D; 2\sqrt{a}x<br>$$</p><p>表格：</p><table><thead><tr><th align="left">左对齐</th><th align="right">右对齐</th><th align="center">居中对齐</th></tr></thead><tbody><tr><td align="left">元素1</td><td align="right">元素2</td><td align="center">元素3</td></tr></tbody></table><p>脚注：<br>脚注[^脚注]</p><p>[^脚注]：注释1，注释2</p><h2 id="横线-："><a href="#横线-：" class="headerlink" title="横线 ："></a>横线 ：</h2><p>链接：<br><a href="lianjie.com%22%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%22">链接</a></p><p>引用链接：<br><a href="lianjie.com%22%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%22">引用链接</a></p><p>请参考<a href="#%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98">一级标题</a></p><p>ULR:<br><a href="http://www.baidu.com/">http://www.baidu.com</a></p><p>图片：<br><img src="/-/%E5%9B%BE%E7%89%87%E9%93%BE%E6%8E%A5" alt="图片"></p><p><em>斜体</em><br><strong>加粗</strong><br><u>下划线</u><br>行内代码 ：<code>printf()</code><br>行内公式 ：$\theta &#x3D; 90$<br>下标 ：H<del>2</del>O<br>上标 ：x^2^<br>&#x3D;&#x3D;高亮文字&#x3D;&#x3D;</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>标签1，标签2</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>学习Java第5天（算法篇1）</title>
+    <link href="/-/2025/09/16/%E5%AD%A6%E4%B9%A0Java%E7%9A%84%E7%AC%AC%E4%BA%94%E5%A4%A9/"/>
+    <url>/-/2025/09/16/%E5%AD%A6%E4%B9%A0Java%E7%9A%84%E7%AC%AC%E4%BA%94%E5%A4%A9/</url>
+    
+    <content type="html"><![CDATA[<p>主要学习了一下用Java编写<br><img src="/-/../img/%E9%A6%96%E9%A1%B5%E5%B1%95%E7%A4%BA.png" alt="首页展示"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>数据结构——链表</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Java</tag>
+      
+      <tag>算法</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/-/2025/09/12/hello-world/"/>
+    <url>/-/2025/09/12/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
   
 </search>
